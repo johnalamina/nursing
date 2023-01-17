@@ -133,13 +133,52 @@
 		6. Technology in nursing research
 3. The nursing process
 	1. Critical thinking and clinical reasoning
+			1. Purpose of critical thinking
+			2. Techniques in Critical thinking
+			3. Applying critical thinking to nursing practice
+			4. attitudes that foster critical thinking
+			5. Components of clinical reasoning
+			6. Integration of critical thinking and clinical reasoning
+			7. Concept mapping
 	2. Assessing
+		1. Overview of the nursing process
+		2. Assessing
+		3. Collecting data
+		4. Organising data
+		5. Validating data
+		6. Documenting data
 	3. Diagnosing
+		1. Nanda Nursing diagnosis
+		2. Diagnostic process
+		3. ongoing development of nursing diagnoses
 	4. Planning
-	5. Implementing and evaluating
-	6. Documenting and reporting
+		1. Types of planning
+		2. developing nursing care plans
+		3. The planning process
+		4. Nursing interventions classification
+	9. Implementing and evaluating
+		1. Implementing
+		2. Evaluating
+	10. Documenting and reporting
+		1. Ethical and legal considerations
+		2. Purposes of client records
+		3. Documentation systems
+		4. Documenting Nursing activities
+		5. Long-term care documentation
+		6. Home care documentation
+		7. General guidelines for recording
+		8. Reporting
 4. Health Beliefs and practices
 	1. Health promotion
+		1. individual health
+		2. applying theoretical frameworks
+		3. healthy people
+		4. defining health promotion
+		5. Sites for health promotion activities
+		6. health promotion model
+		7. Stages of health behaviour change
+		8. Nurse's role in health promotion
+		9. Nursing process and health promotion
 	2. Health, wellness and illness
 	3. Culturally responsive nursing care
 	4. Cmplementary and alternative healing modalities
@@ -305,7 +344,7 @@
 40. Telehealth
 41. 
 
-Questions
+### Questions
 1. In order to provide consultation, education and support as well as to manage the clients chemotherapy regimen, the nurse must be which of the following
 	1. Nurse practitioner
 	2. Clinical nurse specialist
@@ -330,24 +369,59 @@ Questions
 
 
 ## Nature of Nursing: Chapter 2. Evidence-based practice and research in nursing
-	Intro
-	Evidence-based practice
-	Nursing research
+### Intro
+### Evidence-based practice
+### Nursing research
+1. Approaches to nursing research
+2. overview of the research process
+3. Research-related roles and responsibilies for nurses
+
+### References
+
+### Learning outcomes
+1. Explain the relationship between research and evidence based nursing practice
+2. Apply the steps of change used in implementing evidence based practice
+3. Describe limitations in relying on research as the primary source of evidence for practice.
+4. Differentiate the quantitative approach from the qualitative approach in nursing research.
+5. Outline the steps to research
+6. 
 
 ## Nature of Nursing: Chapter 3. Nursing theories and conceptual frameworks
-	Introduction to theories
-	The metaparadigm for nursing
-	The role of nursing theory
-	overview of selected nursing theories
-	Critique of nursing theory
+### Introduction to theories
+1. Context for theory development in american universities
+2. Defining terms
+### The metaparadigm for nursing
+### The role of nursing theory
+1. In education
+2. In research
+3. in clinical practice
+### overview of selected nursing theories
+1. Nightingale's Evinronmental theory
+2. Peplau's interpersonal relations model
+3. Henderson's definition of nursing
+4. Roger's science of unitary human beings
+5. Orem's theory of Nursing
+6. King's goal attainment theory
+7. Neuman's Systems model
+8. Roy's adaptation model
+9. Leininger's Cultural care diversity and universality theory
+10. Watson's Human Caring Theory
+11. Parse's Human becoming theory
+### Critique of nursing theory
 
 ## Nature of Nursing: Chapter 4 Legal aspects of nursing
-	General legal aspects of nursing
-	regulation of nursing practice
-	Contractual arrangements in nursing
-	Selected legal aspects of nursing practice
-	Areas of potential liability in nursing
-	Legal protections in nursing practice
+### General legal aspects of nursing
+1. Function of the Law in Nursing
+2. Sources of Law
+3. types of laws
+4. Kinds of legal actions
+5. Civil judicial process
+6. Nurses as witnesses
+### regulation of nursing practice
+### Contractual arrangements in nursing
+### Selected legal aspects of nursing practice
+### Areas of potential liability in nursing
+### Legal protections in nursing practice
 
 ## Nature of Nursing: Chapter 5 Values, ethics and advocacy
 	Values

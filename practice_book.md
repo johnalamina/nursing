@@ -1,7 +1,7 @@
 
 ## Kozier's & ERb's Fundamentals of Nursing: Concepts, Processes and Practice
 
-### Contents
+### Contents Short
 1. Nature of Nursing
 	1. History and contemporary nursing practice
 	2. Evidence-based practice and research in nursing
@@ -67,7 +67,7 @@
 	8. Circulation
 	9. Fluid, electrolyte and acid-base balance
 
-### Detailed conents
+### Contents Long
 1. Nature of Nursing
 	1. History and contemporary nursing practice
 		1. Introduction
@@ -383,8 +383,53 @@
 2. Apply the steps of change used in implementing evidence based practice
 3. Describe limitations in relying on research as the primary source of evidence for practice.
 4. Differentiate the quantitative approach from the qualitative approach in nursing research.
-5. Outline the steps to research
-6. 
+5. Outline the steps to research process
+6. Describe research-related roles and responsibilities for nurses
+7. Describe the nurse's role in protecting the rights of participants in research.
+
+### Key terms
+1. comparative analysis
+2. confidentiality
+3. content analysis
+4. cost-benefit analysis
+5. critique
+6. dependent variable
+7. descriptive statistics
+8. ethnography
+9. evidence-based practice (EBP)
+10. extragneous variables
+11. grounded theory
+12. hypothesis
+13. independent variable
+14. inferential statistics
+15. logical positivism
+16. measures of central tendency
+17. measures of variability
+18. methodology
+19. naturalism
+20. phenomenology
+21. pilot study
+22. protocols
+23. qualitative research
+24. quantitative research
+25. reliability
+26. research
+27. research design
+28. research process
+29. sample
+30. scientific validation
+31. statistically significant
+32. target population
+33. validity
+
+### Summary
+1. Evidence-based practice or evidence-based nursing, involves clinical decision making using a variety of sources of evidence modified for use in specific settings and for individual clients.
+2. Change in practice requires assessing the need for change; locating and analysing the best evidence; designing, implementing, and evaluating the practice change; and integrating  and mainting the change.
+3. Some nurses believe that research should not be be the sole or primary source of evidence for practice because it may differ greatly from the real world of practice, limits creativity, does not adequately consider meaning and significance to clients, and has not been demonstrated to be cost effective.
+4. Nursing resarch began in North America in the early 1900s.  Since that time, the concept of research has been introduced into nursing education programs, resarch journals in nursing have been developed , and the National Institute for Nursing research has been established.
+5. Nurses use both quantitative and qualitative approaches to address issues of concern for client care.  Quantitative studies are reported using descriptive and anlystical statistics, and qualitative studies are reported in narrative format.
+6. In today's evidence-based practice environment, all nurses need to be well-informed consumers of research and able to serve as effective research team members.
+7. A key responsibility for urses who are ssisting on a reseearch team is to protect the rights of clients who are participating in the study.
 
 ## Nature of Nursing: Chapter 3. Nursing theories and conceptual frameworks
 ### Introduction to theories

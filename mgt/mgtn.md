@@ -1,3 +1,8 @@
+
+- Links
+	- [Fin tut](https://www.linkedin.com/posts/bouchernicolas_free-finance-course-save-1000s-of-dollars-activity-7047678903900860416-AuN-?utm_source=share&utm_medium=member_ios)
+	- 
+
 Financial Management and Corporate strategy (John Ellis and David williams)
 Contents
 1. General framework

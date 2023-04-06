@@ -437,8 +437,6 @@ The ability to interact with the environment is represented using MDPs, which in
 4. Transition function
 5. Reward function
 
-## TGRL
-
 ### MDP Samples
 1. Hot/cold: Guess a randomly selected number using hints.
 	1. Observations: 0-3. 0 means no guess, 1 means guess is lower, 2 means gues is target, 3 means guess is higher
@@ -498,5 +496,7 @@ Every experience tuple has an opportunity for learning and improving performance
 1. Training RL agents with non-linear function approximators
 2. Deep reinforcement agents that when trained from scratch with minimal adjustements to hyperparameters, can solve different kind of problems.
 3. Advantages and disadvantages of using value-based methods when solving RL problems.
+
+## TGRL
 
 

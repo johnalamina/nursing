@@ -88,3 +88,47 @@
 	2. Reserve
 	3. Commit
 	4. Start
+-  State Transition dispatching operations
+	1. Querying the value of an attribute/property implicitly verifies the task.
+	2. Calling the read function implicitly commits the task if it is not already.
+	3. Calling the write function commits the task.  If the value of the auto start parameter is true, it is also started.
+- Backward transition
+	- When a task is implicitly transitioned backwards, it returns to the state of the task prior to the last operation that resulted in a forward state transition. For example, if the task was in the Verified state and you called the Start Task function/VI to start the task, the task is reserved, committed, and started, transitioning to the Reserved state and to the Committed state before transitioning to the Running state. When you invoke the Stop Task function/VI, the task is not just stopped and transitioned from the Running state to the Committed state. If this were the case, the result is unexpected because the task still has its resources reserved despite the fact that you never explicitly reserved them. Instead, the task is stopped, uncommitted, and unreserved, returning to the Verified state, its state immediately before you performed the last operation that resulted in the state transition, calling the Start Task function/VI. 
+	- As another example, suppose the task is in the Reserved state, and you call the Read function/VI to perform a finite measurement. This results in the task implicitly transitioning from the Reserved state to the Committed state and then to the Running state before performing the read operation. When the read operation completes, the task does not remain in the running state. If this were the case, the result is unexpected behavior, because you need to stop the task and unreserve its resources despite the fact you never explicitly reserved the resources or started the task. Instead, after the finite read operation completes, the task is implicitly transitioned from the Running state to the Committed state to the Reserved state. This results in the task returning to the state before you performed the read operation.
+### Timing and Triggering
+- Hardware vs Software Timing
+#### Clocks
+- Clock types
+	1. AI convert clock
+	2. AI convert clock timebase
+	3. AI sample clock
+	4. AI sample clock timebase
+	5. Counter timebase
+	6. DI sample clock
+	7. DO sample clock
+	8. DO sample clock timebase
+	9. Master timebase
+	10. 12.8 MHz timebase
+	11. 13.1072 MHz timebase
+	12. 20 MHz timebase
+	13. 80 MHz timebase
+	14. 100MHz timebase
+	15. 100kHz timebase
+- Clock examples
+	17. M-series![[Pasted image 20230531125925.png]]
+	18. C-series![[Pasted image 20230531125900.png]]
+	19. X-series![[Pasted image 20230531125838.png]]![[Pasted image 20230531125805.png]]
+	20. E-series![[Pasted image 20230531125737.png]]
+- Trigger vs clock
+	- The distinction between triggers and clocks is blurred when the digital edges used as a trigger are periodic. In such a case, a clock causes the device to perform an action. The sample clock is the primary example. The stimulus for the action of producing a sample is so often a clock that NI-DAQmx configures the sample clock instead of the sample trigger. The distinction is made clear when you consider the sample clock is in fact just one way of providing the source of a sample trigger.
+- Sample timing types
+	- Sample clock
+	- On demand
+	- Change detection
+	- Handshake
+	- Burst Handshake
+	- Implicit
+
+
+
+

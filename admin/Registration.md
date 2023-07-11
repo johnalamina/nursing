@@ -1,5 +1,7 @@
 
 ## [MFA](https://support.microsoft.com/en-us/account-billing/common-questions-about-the-microsoft-authenticator-app-12d283d1-bcef-4875-9ae5-ac360e2945dd) 
+15 instructions 
+1. how do I manage my MFA device?
 
 
 There are 18 questions in the web page context.  Here are all the 18 questions:

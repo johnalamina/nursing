@@ -2,7 +2,31 @@
 ## [MFA](https://support.microsoft.com/en-us/account-billing/common-questions-about-the-microsoft-authenticator-app-12d283d1-bcef-4875-9ae5-ac360e2945dd) 
 15 instructions 
 1. how do I manage my MFA device?
-
+2. MFA how to
+3. Enrolment instruction
+4. MFA without a smartphone 
+5. New student guidance 
+6. Additional method’s recommended 
+7. International students
+8. Tips for MFA
+9. FAQs
+	1. Do I setup each year?
+	2. Opting out
+	3. Cost
+	4. No smartphone 
+	5. Yubikey?
+	6. Already using MS MFA
+	7. NO username/password 
+	8. No device 
+	9. New phone
+	10. Unexpected MFA prompts
+	11. Troubleshooting 
+10. NHS laptops 
+11. New student Unable to log in to UoH
+12. Outside UK
+13. MFA and CBEs
+14. Number matching security 
+15. Contact 
 
 There are 18 questions in the web page context.  Here are all the 18 questions:
 - **Which version of the Authenticator app should I be using?**

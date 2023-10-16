@@ -5,6 +5,7 @@ Links
 - [fundamentals II](https://www.youtube.com/playlist?list=PLMRBQkKkJ6_pNvJ222xJ0GHhc5Hgna_HD)
 - [Level up RN](https://www.youtube.com/@LevelUpRN/playlists)
 - [RNPedia](https://www.rnpedia.com/category/nursing-articles/)
+- [code of conduct](https://www.nmc.org.uk/standards/code/)
 - 
 
 [KEY](https://www.youtube.com/watch?v=nvl1qQfgzuw&list=PLQrdx7rRsKfUIghJha8pCwjinzVjKPSsG) TO [PROGRAMME](https://www.herts.ac.uk/courses/postgraduate-masters/msc-adult-nursing) LEARNING OUTCOMES

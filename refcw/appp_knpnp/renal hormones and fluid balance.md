@@ -1,0 +1,12 @@
+
+Water in the body must be balanced.  Having too much or too little fluid in our bodies can lead to abnormal or pathophysiologic pathways in the body.  Therefore the fluids in our bodies must be tightly regulated at all times. [by how much tolerance?]
+
+The mechanisms which kidney and renal system deploy to maintain healthy fluid balance or osmoregulation are 
+1. ADH (anti-diuretic hormone)
+2. RAAS 
+3. Thirst mechanism
+4. Brain natriuretic peptide
+
+Whenever there is too little fluid in the body, it will experience a drop in blood pressure.  When the renal systems detects this drop in blood pressure, the kidney responds by releasing a substance known as angio-tensin.  This hormone acts to stimulate other hormones such as antidiuretic hormones involved in fluid retention.  The process known as the Renin Angio-tensin and Aldosterone system (RAAS) kicks off when juxtaglomerular cells detect a drop in the blood circulation pressure and release a substance called renin.  Renin is a hormonal stimulating hormone, which when picked up by the liver in-return causes the liver to release angiotensinogen which is also known as angiotensin I (reference here). Angiotensin I is ineffective in of itself and does not play a major role in osmoregulation. However, it  is a precursor to the osmoregulatory active hormone, angiotensin II, and, in the presence of ACH (angiotensin converting enzyme), is converted to the active angio-tensin II hormone.  As the name implies, the action of angio tensin II, is to act on the smooth muscles of the blood vessels  causing them to constrict and the outcome of vaso constriction within the walls of the blood vessels, is that of increased pressure in the blood and therefore increased flow of body fluid.  At the same time angiotensin II causes the adrenal cortex to release aldosterone which cause the kidneys to increase the production of sodium ions, giving the kidneys increased ability to retain water  Finally antiotensin II causes the pituitary gland to release antidiuretic hormone (ADH) which stimulates the thirst mechanism (reference).  ADH which is known as vasopressin, is created in the Hypothalamus but is secreted by the posterior pituitary gland.  This also causes the nephrons in the renal system to reabsorb water in the kidneys.
+
+Conversely, the Brain natriuretic peptide (BNP) hormone when released into the heart ventricle work against angiotensin II and counter the effects of RAAS action in the body.

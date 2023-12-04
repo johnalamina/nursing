@@ -10,6 +10,9 @@
 			- [up and down reg](https://medicalcannabisprimer.com/all-blogs/18-downregulation-and-upregulation-of-receptors)
 			- [agonist, partial agonist, antagonist](https://www.youtube.com/watch?v=_sM8KBZ9k4Q)
 			- [receptor types](https://www.youtube.com/watch?v=uDi-KjSsblk)
+		- Fluid regulation
+			- [aldosterone & adh KA](https://www.youtube.com/watch?v=Z0XPMFL45oo)
+			- [fluid playlist](https://www.youtube.com/playlist?list=PLQrdx7rRsKfWJSZ9pL8L3Q1dzdlxUzeKv)
 			- 
 		- [amoeba sisters](https://www.youtube.com/watch?v=emvHaBiRY8Q)
 		- [peter attia](https://www.youtube.com/watch?v=5oxFK6poSXM)
@@ -25,6 +28,9 @@
 		- [g-coupled receptors part 1 - Elliot Nicholson](https://www.youtube.com/watch?v=jxJad7YBUlc)
 		- [adreno receptors Dr Matt and Dr Mike](https://www.youtube.com/watch?v=tIjPl1jhQLI)
 		- [signal transduction pathways dirty medicine](https://www.youtube.com/watch?v=MoHQAyMGCFw)
+	- [crashcourse playlist](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8)
+	- [2min neurosci playlist](https://www.youtube.com/playlist?list=PLNZqyJnsvdMqFNFyHvMFrFnlXLosnwwB_)
+	- 
 - Books
 	- Fundamentals Anatomy and physiology for Nursing and health care students
 
@@ -79,3 +85,129 @@ Sources:
  [1] McIntosh, H., Song, C., and Howlett, A. (1997, Sep 2). CB1 cannabinoid receptor: cellular regulation and distribution in N18TG2 neuroblastoma cells. _Molecular Brain Research._ Retrieved from [https://www.researchgate.net/publication/13756565_CB1_cannabinoid_receptor_Cellular_regulation_and_distribution_in_N18TG2_neuroblastoma_cells](https://www.researchgate.net/publication/13756565_CB1_cannabinoid_receptor_Cellular_regulation_and_distribution_in_N18TG2_neuroblastoma_cells)
 
 [2] Manzanares, J. and Carrascosa, A. (2006 Jul). Role of the Cannabinoid System in Pain Control and Therapeutic Implications for the Management of Acute and Chronic Pain Episodes. _Curr Neuropharmacol_. Retrieved from [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2430692/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2430692/)
+
+## Questions
+- Question 1: Compare and contrast up regulation and down regulation as it pertains to the endocrine system. Word count 200 words.  
+- Question 2: Giving examples, explore the 3 types of stimulus for the release of hormones. Word count 200 words. 
+- _Section 2b. Renal system_ Discuss the role of the kidneys and associated hormones in the maintenance of fluid balance in the healthy adult. _Word count 500 words_  
+- Section 2c. What are the structural and functional divisions of the Autonomic Nervous System? _Word count 500 words_
+
+
+## Summary of hormone stimuli
+
+1. **Hormonal Stimulation:**
+    
+    - Cells or glands release hormones into the bloodstream.
+    - These hormones stimulate other cells and glands to release their own hormones.
+    - Hormones involved in this process typically have "tropic" in their names.
+2. **Humoral Stimulation:**
+    
+    - Pancreas responds to substances floating in the bloodstream.
+    - For example, high blood sugar levels trigger the release of insulin.
+    - This type of stimulation is associated with substances like glucose in the bloodstream.
+3. **Neural Stimulation:**
+    
+    - Neurons stimulate cells or glands to release hormones.
+    - Neurons release neurotransmitters that bind to receptors, triggering hormone release.
+    - An example is the adrenal gland being stimulated by the sympathetic nervous system to release adrenaline.
+4. **Hormones and Tropic Significance:**
+    
+    - Hormones involved in hormonal stimulation often have "tropic" in their names.
+    - Examples include adrenocorticotropic hormone, which stimulates the adrenal gland.
+5. **Summary of Stimulation Types:**
+    
+    - The three ways hormones are released are hormonal stimulation, humoral stimulation, and neural stimulation.
+    - Each method involves different triggers: hormones, substances in the bloodstream (humoral), and neural signals, respectively.
+  
+## Types of hormonal stimuli
+
+Here are some videos that explain the different types of stimuli for release of hormones in the body:
+
+**Humoral stimuli**
+
+- [Control of Hormone Release | Endocrine System](http://www.youtube.com/watch?v=5Hq4eoqsVbk) by Dr Matt & Dr Mike
+- [Endocrine Gland Stimuli – Physiology | Lecturio Nursing](http://www.youtube.com/watch?v=LGdxP5Eb0Ig) by Lecturio Nursing
+- [Chapter 16- Stimuli for Hormonal Secretion](http://www.youtube.com/watch?v=O0S41nKQowY) by Nicole Mashburn
+
+**Hormonal stimuli**
+
+- [Control of Hormone Release | Endocrine System](http://www.youtube.com/watch?v=5Hq4eoqsVbk) by Dr Matt & Dr Mike
+- [Control of Hormone Secretion](http://www.youtube.com/watch?v=QXD_eogr11A) by Professor Givon's Lectures
+- [Hormone Release and Regulation](http://www.youtube.com/watch?v=MefCaHzraUI) by MedSchoolCoach MCAT Prep
+
+**Neural stimuli**
+
+- [Control of Hormone Release | Endocrine System](http://www.youtube.com/watch?v=5Hq4eoqsVbk) by Dr Matt & Dr Mike
+- [Endocrine Gland Stimuli – Physiology | Lecturio Nursing](http://www.youtube.com/watch?v=LGdxP5Eb0Ig) by Lecturio Nursing
+- [Chapter 16- Stimuli for Hormonal Secretion](http://www.youtube.com/watch?v=O0S41nKQowY) by Nicole Mashburn
+    
+    Humoral stimuli for hormone release
+    
+    [Control of Hormone Release | Endocrine System](http://www.youtube.com/watch?v=5Hq4eoqsVbk)[Dr Matt & Dr MikeOpens in a new window](https://www.youtube.com/channel/UCH6Oc4MAJzzmK0SM805ZnjQ)In this video, Dr Mike explains the different ways that **hormones** can be stimulated to be **released**.Opens in a new window
+    
+    [Endocrine Gland Stimuli – Physiology | Lecturio Nursing](http://www.youtube.com/watch?v=LGdxP5Eb0Ig)[Lecturio NursingOpens in a new window](https://www.youtube.com/channel/UC284Za0seKV8WGZJO4gltFg)In this video “Endocrine Gland **Stimuli** ” you will learn about: ▻ factors that affect the **release** of **hormones** from the endocrine ...Opens in a new window
+    
+    [Chapter 16- Stimuli for Hormonal Secretion](http://www.youtube.com/watch?v=O0S41nKQowY)[Nicole MashburnOpens in a new window](https://www.youtube.com/channel/UCnAb8Fq_ZC36_3DSlUGo5Ow)Opens in a new window
+    
+    [Control of Hormone Secretion](http://www.youtube.com/watch?v=QXD_eogr11A)[Professor Givon's LecturesOpens in a new window](https://www.youtube.com/channel/UCidZEKOXh3XFjr0S1ID-MZw)Opens in a new window
+    
+    [Chapter 16 Stimuli for Hormonal Secretion](http://www.youtube.com/watch?v=diDq2U72-i4)[BIO 202 Human Anatomy & Physiology IIOpens in a new window](https://www.youtube.com/channel/UCh-sczzm8c0AywUQYBU4lEA)Opens in a new window
+    
+    View related videos on [YouTubeOpens in a new window](https://www.youtube.com/results?search_query=humoral%20stimuli%20for%20hormone%20release&sp=EgIQAQ%253D%253D)YouTube video views will be stored in your YouTube History, and your data will be stored and used by YouTube according to its [Terms of ServiceOpens in a new window](https://www.youtube.com/static?template=terms)
+    
+    Hormonal stimuli for hormone release
+    
+    [Control of Hormone Release | Endocrine System](http://www.youtube.com/watch?v=5Hq4eoqsVbk)[Dr Matt & Dr MikeOpens in a new window](https://www.youtube.com/channel/UCH6Oc4MAJzzmK0SM805ZnjQ)In this video, Dr Mike explains the different ways that **hormones** can be stimulated to be **released**.Opens in a new window
+    
+    [Control of Hormone Secretion](http://www.youtube.com/watch?v=QXD_eogr11A)[Professor Givon's LecturesOpens in a new window](https://www.youtube.com/channel/UCidZEKOXh3XFjr0S1ID-MZw)Opens in a new window
+    
+    [Hormone Release and Regulation](http://www.youtube.com/watch?v=MefCaHzraUI)[MedSchoolCoach MCAT PrepOpens in a new window](https://www.youtube.com/channel/UCOFg1yHxJ5Rt9vmmEbVMITw)Need help preparing for the Biology section of the MCAT? MedSchoolCoach expert, Ken Tao, will teach everything you need to ...Opens in a new window
+    
+    [🎧 Pituitary Gland Stimulation to Release Growth Hormone with Simply Hypnotic](http://www.youtube.com/watch?v=Mu9qBGZPZak)[Simply HypnoticOpens in a new window](https://www.youtube.com/channel/UCaSdMGWGYe-4mDKFbJfvNhg)Pituitary Gland **Stimulation** to **Release** Growth **Hormone** with Simply Hypnotic - This Binaural Beat recording can help develop ...Opens in a new window
+    
+    [Endocrine System, Part 1 - Glands & Hormones: Crash Course Anatomy & Physiology #23](http://www.youtube.com/watch?v=eWHH9je2zG4)[CrashCourseOpens in a new window](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)Hank begins teaching you about your **endocrine** system by explaining how it uses glands to **produce hormones**. These **hormones** ...Opens in a new window
+    
+    View related videos on [YouTubeOpens in a new window](https://www.youtube.com/results?search_query=hormonal%20stimuli%20for%20hormone%20release&sp=EgIQAQ%253D%253D)YouTube video views will be stored in your YouTube History, and your data will be stored and used by YouTube according to its [Terms of ServiceOpens in a new window](https://www.youtube.com/static?template=terms)
+    
+    Neural stimuli for hormone release
+    
+    [Control of Hormone Release | Endocrine System](http://www.youtube.com/watch?v=5Hq4eoqsVbk)[Dr Matt & Dr MikeOpens in a new window](https://www.youtube.com/channel/UCH6Oc4MAJzzmK0SM805ZnjQ)In this video, Dr Mike explains the different ways that **hormones** can be stimulated to be **released**.Opens in a new window
+    
+    [Endocrine Gland Stimuli – Physiology | Lecturio Nursing](http://www.youtube.com/watch?v=LGdxP5Eb0Ig)[Lecturio NursingOpens in a new window](https://www.youtube.com/channel/UC284Za0seKV8WGZJO4gltFg)In this video “Endocrine Gland **Stimuli** ” you will learn about: ▻ factors that affect the **release** of **hormones** from the endocrine ...Opens in a new window
+    
+    [Chapter 16- Stimuli for Hormonal Secretion](http://www.youtube.com/watch?v=O0S41nKQowY)[Nicole MashburnOpens in a new window](https://www.youtube.com/channel/UCnAb8Fq_ZC36_3DSlUGo5Ow)Opens in a new window
+    
+    [Control of Hormone Secretion](http://www.youtube.com/watch?v=QXD_eogr11A)[Professor Givon's LecturesOpens in a new window](https://www.youtube.com/channel/UCidZEKOXh3XFjr0S1ID-MZw)Opens in a new window
+    
+    [Hormone Release and Regulation](http://www.youtube.com/watch?v=MefCaHzraUI)[MedSchoolCoach MCAT PrepOpens in a new window](https://www.youtube.com/channel/UCOFg1yHxJ5Rt9vmmEbVMITw)Need help preparing for the Biology section of the MCAT? MedSchoolCoach expert, Ken Tao, will teach everything you need to ...Opens in a new window
+    
+    View related videos on [YouTubeOpens in a new window](https://www.youtube.com/results?search_query=neural%20stimuli%20for%20hormone%20release&sp=EgIQAQ%253D%253D)YouTube video views will be stored in your YouTube History, and your data will be stored and used by YouTube according to its [Terms of Service](https://www.youtube.com/static?template=terms)
+
+  
+## Hormones in fluid regulation
+
+Sure, here are some videos that explain how the kidney and renal system use hormones for fluid regulation:
+
+- [Kidney Homeostatic Functions, Animation](http://www.youtube.com/watch?v=iKusxCtH62c) by Alila Medical Media
+- [Hormones Fluid Regulation Homeostasis: ADH (Antidiuretic), Aldosterone, RAAS, Thirst Mechanism](http://www.youtube.com/watch?v=Jv7qCElF8us) by RegisteredNurseRN
+- [Nephrology - Physiology Reabsorption and Secretion](http://www.youtube.com/watch?v=ko_XD4jPEo8) by Armando Hasudungan
+- [Regulation of Renal Blood Flow](http://www.youtube.com/watch?v=dFnLbgPjiUw) by Osmosis from Elsevier
+- [Hormones in body fluid homestasis (ADH/vasopressin, Aldosterone and Natriuretic peptides)](http://www.youtube.com/watch?v=FzeL1fcBwnE) by Armando Hasudungan
+    
+### Kidney and renal system use hormones for fluid regulation
+
+[Kidney Homeostatic Functions, Animation](http://www.youtube.com/watch?v=iKusxCtH62c)[Alila Medical MediaOpens in a new window](https://www.youtube.com/channel/UCiTGKA9W0G0TL8Hm7Uf_u9A)(USMLE topics) Role of the **kidneys** in blood homeostasis: maintenance of blood volume, blood pressure, acid base **balance**, red ...Opens in a new window
+
+[Hormones Fluid Regulation Homeostasis: ADH (Antidiuretic), Aldosterone, RAAS, Thirst Mechanism](http://www.youtube.com/watch?v=Jv7qCElF8us)[RegisteredNurseRNOpens in a new window](https://www.youtube.com/channel/UCPyMN8DzkFl2__xnTEiGZ1w)**Hormones Fluid Regulation** Homeostasis: ADH (Antidiuretic), Aldosterone, RAAS, Thirst Mechanism, Natriuretic Peptides ANP ...Opens in a new window
+
+[Nephrology - Physiology Reabsorption and Secretion](http://www.youtube.com/watch?v=ko_XD4jPEo8)[Armando HasudunganOpens in a new window](https://www.youtube.com/channel/UCesNt4_Z-Pm41RzpAClfVcg)Support me: 🖼️ Buy PDFs: http://armandoh.org/shop Patreon: http://www.patreon.com/armando Buy shirts: ...Opens in a new window
+
+[Regulation of Renal Blood Flow](http://www.youtube.com/watch?v=dFnLbgPjiUw)[Osmosis from ElsevierOpens in a new window](https://www.youtube.com/channel/UCNI0qOojpkhsUtaQ4_2NUhQ)Find our full video library only on Osmosis Prime: http://osms.it/more. Join over 3 million current & future clinicians who learn by ...Opens in a new window
+
+[Hormones in body fluid homestasis (ADH/vasopressin, Aldosterone and Natriuretic peptides)](http://www.youtube.com/watch?v=FzeL1fcBwnE)[Armando HasudunganOpens in a new window](https://www.youtube.com/channel/UCesNt4_Z-Pm41RzpAClfVcg)Support me: 🖼️ Buy PDFs: http://armandoh.org/shop Patreon: http://www.patreon.com/armando Buy shirts: ...Opens in a new window
+
+View related videos on [YouTubeOpens in a new window](https://www.youtube.com/results?search_query=kidney%20and%20renal%20system%20use%20hormones%20for%20fluid%20regulation&sp=EgIQAQ%253D%253D)YouTube video views will be stored in your YouTube History, and your data will be stored and used by YouTube according to its [Terms of Service](https://www.youtube.com/static?template=terms)
+
+Symp vs Para symp
+![[Pasted image 20231204062133.png]]
+![[RNANS.png]]

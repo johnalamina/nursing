@@ -4,7 +4,7 @@
 ![[ans.png]]
 ![[Pasted image 20231203182017.png]]
 
-The Nervous system can be broken down into several divisions.   The first division is divides the nervous system into the central nervous system and the peripheral nervous system.
+The Nervous system has several sub-divisions.   The first division is divides the nervous system into the central nervous system and the peripheral nervous system.
 
 NS
 - CNS
@@ -23,6 +23,7 @@ NS
 		- SOMATIC (CONSCIOUS)
 
 ![[sympa.png]]
+![[psr.png]]
 Neuroscientifically challenged
 ![[Pasted image 20231204061013.png]]
 

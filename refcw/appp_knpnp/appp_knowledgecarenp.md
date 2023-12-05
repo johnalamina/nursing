@@ -211,3 +211,6 @@ View related videos on [YouTubeOpens in a new window](https://www.youtube.com/r
 Symp vs Para symp
 ![[Pasted image 20231204062133.png]]
 ![[RNANS.png]]
+![[Pasted image 20231204061013.png]]![[psr.png]]
+![[sympa.png]]
+

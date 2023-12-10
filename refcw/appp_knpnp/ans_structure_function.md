@@ -4,7 +4,7 @@
 ![[ans.png]]
 ![[Pasted image 20231203182017.png]]
 
-The Nervous system has several sub-divisions.   The first division is divides the nervous system into the central nervous system and the peripheral nervous system.
+The autonomic nervous system is a division of the Nervous system.  The Nervous system has several sub-divisions.   The first division is divides the nervous system into the central nervous system and the peripheral nervous system.  The central nervous system is positionally located at the anatomical centre of the body and consists of the brain and spinal cord (ref).  The peripheral nervous system refer the the nerves that emanate from the central nervous system. There are 12 nerves that emanate from the brain and 31 nerves that originate from the spinal cord.  The spinal nerves are further subdivided into 4 regions:  cervical, thoracic, lumbar, and sacral region.  The peripheral nervous system is further classified into the somatic and autonomic (automatic) nervous system.  While the somatic nervous system 
 
 NS
 - CNS

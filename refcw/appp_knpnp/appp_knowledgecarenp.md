@@ -154,7 +154,34 @@
 			3. Increases blood sugar levels
 		2. Blood vessels
 			1. Constricts blood vessels in viscera and skin
-			2. 
+			2. Dilates blood vessels in the heart and skeletal muscles.
+		3. Eye: Dilates pupils
+		4. Heart: Increases contraction force
+		5. Lungs: Dilates bronchioles
+		6. Kidneys: Decreases urine output
+		7. Liver: Causes release of glucose
+		8. Digestive system
+			1. Decreases peristalsis
+			2. constrict digestive sphincters
+		9. Adrenal medulla: secrete epinephrine and norepinephrine
+		10. Lacrimal glands: Inhibits production of tears
+		11. Salivary glands: inhibits saliva production
+		12. Sweat glands: Stimulates and produces perspiration
+	2. PSNS
+		1. Cell metabolism: No effect
+		2. Blood vessels: No effect
+		3. Eye: constricts pupils
+		4. Heart: Decreases heart rate
+		5. Lungs: Constricts bronchioles
+		6. Kidney: No effect
+		7. Liver: No effect
+		8. Digestive system
+			1. Increases peristalsis
+			2. dilates digestive sphincters
+		9. Adrenal medulla: No effect
+		10. Lacrimal glands: Increase production of tears
+		11. Salivary glands: Increase saliva production
+		12. Sweat glands: No effect
 ### Endocrine system
 The endocrine system is a system of messaging within the human body.  There are several organs responsible for the secretion of different types of chemicals.  These chemicals are typically known as hormones.  However, for the hormones to reach their target destinations successfully, the body needed to develop effective mechanism to filter the correct chemicals for the appropriate target cells within the endocrine system.  This is achieved through what are known as hormone hormone receptors.
 #### Hormones

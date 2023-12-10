@@ -35,6 +35,126 @@
 	- Fundamentals Anatomy and physiology for Nursing and health care students
 
 ## Fundamentals of anatomy notes
+### Nervous system
+#### Topics
+1. Organisation
+	1. Sensory PNS
+		1. Motor division
+		2. Autonomous
+	2. Central
+2. General Structures
+	1. Neurones
+	2. Dendrites(cell body, axon, myelin)
+3. Function
+	1. Afferent Nerves (sensory)
+	2. Efferent Nerves (motor)
+	3. Action potential
+	4. Propagation
+		1. Saltatory conduction
+		2. Refactory Period
+	5. Neurotransmitters
+	6. Neuroglia
+	7. Meninges
+	8. Cerebrospinal fluid (CSF)
+4. The Brain
+	1. Cerebrum
+	2. Cerebellum
+	3. Diencephalon
+	4. Brainstem
+	5. Cerebellum
+	6. Limbic system and reticular formation
+5. PNS
+	1. Cranial nerves
+	2. Spinal cord
+6. ANS
+###  Autonomic Nervous system
+- Involved in homeostasis and involuntary (automatic) functions
+- Comprises neurons ganglia and connective tissue
+- Subdivided into the sympathetic and parasympathetic divisions.
+- Common features (Logenbaker, 2016) include
+	- innervate all internal organs.  
+	- utilise motor neurones and one ganglion to transmit an action potential.
+	- Function involuntarily
+- Sympathetic (fight/flight)
+- Parasympathetic (rest/digest)
+- Sympathetic organs are as follows
+	- Head
+		- pineal gland
+		- eye
+			- lacrimal gland
+		- mucous membrane of the nose
+		- sublingual and submandibular glands
+	- Heart
+		- Atrial muscle fibres
+		- SA/AV nodes
+		- cardiac plexus (T1-T4)
+			- Ventricular muscle
+	- Lungs
+		- pulmonary plexus
+	- Liver
+		- greater splanchic nerve
+			- gall bladder/ducts
+	- T4-T11
+		- Skin
+			- sweat glands
+			- hair follicle smooth muscle
+			- blood vessels
+		- coelic ganglion
+			- transverse colon
+			- spleen
+			- pancreas
+			- stomach
+		- aortico-renal ganglion/superior mesenteric ganglion
+			- colon
+		- Lesser splanchic nerve
+			- Adrenal gland
+			- Kidney
+			- Ureter
+	- Lumbar splanchic nerve (L1-L3)
+		- inferior mesenteric/prevertebral ganglion
+			- Unirary bladder
+			- External genitals
+			- Uterus
+			- Rectum
+- Parasympathetic organs
+	- Head
+		- Trigeminal ganglia (CNIII)
+			- eye (lacrimal)
+		- Pharyngopalatine ganglion (CNVII)
+			- sublingual and submandibular
+		- Submandibular (CNVII)
+			- mucous membrane
+		- Otic ganglion (CNIX)
+			- parotid gland
+	- CNX
+		- Heart
+		- Lungs
+		- Liver, gallbladder and ducts
+		- Stomach
+		- colon
+	- Pelvic splanchic nerves (S2-S4)
+		- Ureter
+		- Urinary bladder
+		- External genitalia
+		- Uterus
+#### Sympathetic nervous system
+- Includes nerve fibres that arise from 12 thoracic and first 2 lumbar segments of the spine.   Hence also called the thoraco-lumbar division.
+- It takes control of many internal organs in times of stressful situations.
+- This has an over all effect of exercising the muscles of movement as well as external emotions of anger and anxiety.
+- In such situations, the ANS release norepinephrine which enables the sympathetic response (Migliozzi, 2017)
+### Parasympathetic division
+- Includes fibres that arise from the cranial nerves as well as the lower end of the spinal cord.  Hence also referred toa s the cranio-sacral division.
+- It is most active when the body is at rest, it uses acetylcholine as the substance to boost neural activity with a mostly inhibiting response naturally counteracting the effects of the sympathetic nervous system (Migliozzi 2017).
+#### Effects of the ANS on organ/system
+1. Cell metabolisom
+	1. SNS
+		1. Cell Metabolism
+			1. Increases metabolic rate
+			2. Stimulates break down of sugar
+			3. Increases blood sugar levels
+		2. Blood vessels
+			1. Constricts blood vessels in viscera and skin
+			2. 
 ### Endocrine system
 The endocrine system is a system of messaging within the human body.  There are several organs responsible for the secretion of different types of chemicals.  These chemicals are typically known as hormones.  However, for the hormones to reach their target destinations successfully, the body needed to develop effective mechanism to filter the correct chemicals for the appropriate target cells within the endocrine system.  This is achieved through what are known as hormone hormone receptors.
 #### Hormones

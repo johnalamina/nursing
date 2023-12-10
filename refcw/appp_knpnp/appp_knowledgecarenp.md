@@ -34,7 +34,7 @@
 - Books
 	- Fundamentals Anatomy and physiology for Nursing and health care students
 
-## Fundaments of anatomy notes
+## Fundamentals of anatomy notes
 ### Endocrine system
 The endocrine system is a system of messaging within the human body.  There are several organs responsible for the secretion of different types of chemicals.  These chemicals are typically known as hormones.  However, for the hormones to reach their target destinations successfully, the body needed to develop effective mechanism to filter the correct chemicals for the appropriate target cells within the endocrine system.  This is achieved through what are known as hormone hormone receptors.
 #### Hormones
@@ -214,3 +214,38 @@ Symp vs Para symp
 ![[Pasted image 20231204061013.png]]![[psr.png]]
 ![[sympa.png]]
 
+Sympathetic Nervous System
+![[Pasted image 20231210064541.png]]
+![[symp_summary.png]]
+Parasympathetic division is in charge of
+1. Digestion
+2. Waste
+3. Reproduction
+4. fight of infection
+
+My midterm exam is tomorrow. Hope this mnemonics help others. 
+- I. Oh- Olfactory 
+- II. Oh- Optic 
+- III. Oh- Oculomotor 
+- IV. To- Trochlear 
+- V. Touch- Trigeminal 
+- VI. And- Abducens 
+- VII. Feel- Facial 
+- VIII. A- Auditory 
+- IX. Girl's- Glossopharyngeal 
+- X. Vagina- Vagus 
+- XI. Aahh- Accessory 
+- XII. Heavenly- Hypoglossal 
+Also, remember what kind of sensory fiber's they are through this another mnemonics. 
+- I. Some- Sensory 
+- II. Say- Sensory 
+- III. Marry- Motor 
+- IV. Money- Motor 
+- V. But- Both 
+- VI. My- Motor 
+- VII. Brother- Both 
+- VIII. Says- Sensory 
+- IX. Big- Both 
+- X. Boobs- Both 
+- XI. Matters- Motor 
+- XII. Most- Motor

@@ -1,3 +1,6 @@
+
+# 7HSK2115
+
 Using a range of flexible and blended approaches this module is designed to introduce the student to the fundamentals of nursing practice. The module aims to 
 1. enhance the student's abilities to respond to a variety of care needs using appropriate assessment tools. 
 2. A review of current evidence and research underpinning current risk assessment strategies for promoting patient safety will be used to
@@ -365,8 +368,7 @@ Todo
 #### Module Aim(s)
 1. Develop an insight into the role of the nurse 
 	1. NMC Code
-	2. The future nurse
-	3. [Standards](https://www.nmc.org.uk/standards/standards-for-nurses/standards-of-proficiency-for-registered-nurses/) for proficiency
+	2. [Standards](https://www.nmc.org.uk/standards/standards-for-nurses/standards-of-proficiency-for-registered-nurses/) for proficiency
 2. how evidence-based nursing practise helps maintain patient safety in a variety of settings. 
 	1. [Evidence based practice](https://hcmarketplace.com/media/supplemental/3737_browse.pdf)
 	2. [slides](https://media.tghn.org/medialibrary/2021/07/1._Generating_Evidence_for_Clinical_Nursing_Practice.pdf)
@@ -376,26 +378,28 @@ Todo
 	1. Communication and interpersonal skills
 	2. [Person](https://www.skillsforhealth.org.uk/info-hub/person-centred-approaches-2017/) centred approaches
 	3. [Delivering](https://herts.rl.talis.com/link?url=https%3A%2F%2Fbibliu.com%2Fusers%2Fsaml%2FsamlHertfordshire%3FRelayState%3DeyJjdXN0b21fbGF1bmNoX3VybCI6IiMvdmlldy9ib29rcy85NzgxNTI5Nzg2NjM3L2VwdWIvT0VCUFMvdG9jLmh0bWwifQ%253D%253D&sig=0c8055ff9cd5b8c2b8bf873d16b010697d919107f03e90454f98dabd8ae2a91a) person-centred care in Nursing
-	4. [Person](https://www.health.org.uk/publications/person-centred-care-made-simple) centred care made simple 
+	4. [Person](https://www.health.org.uk/publications/person-centred-care-made-simple) [centred](https://www.skillsforhealth.org.uk/wp-content/uploads/2021/01/Person-Centred-Approaches-Framework.pdf) care made simple 
 	5. [Safeguarding](https://go-gale-com.ezproxy.herts.ac.uk/ps/retrieve.do?tabID=T002&resultListType=RESULT_LIST&searchResultsType=SingleTab&hitCount=1&searchType=AdvancedSearchForm&currentPosition=1&docId=GALE%7CA98540874&docType=Article&sort=RELEVANCE&contentSegment=ZONE-MOD1&prodId=AONE&pageNum=1&contentSet=GALE%7CA98540874&searchId=R1&userGroupName=uniherts&inPS=true&aty=ip) the patient and profession: the value of critical care nurse certification
 	6. No [health](https://herts.rl.talis.com/link?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fpublications%2Fno-health-without-mental-health-a-cross-government-outcomes-strategy&sig=cdcc75b6374e2f84c33a6c782d848cf349b08cd8b2d603bc02bec30a8a35e953) without mental health: a cross-government outcomes strategy
 4. Understand the ethical professional and legal underpinnings of nursing care.
 	1. Principles of biomedical ethics
-	2. Safeguarding adults and the law
+	2. Safeguarding [adults](https://herts.rl.talis.com/link?url=http%3A%2F%2Fwww.vlebooks.com%2Fvleweb%2Fproduct%2Fopenreader%3Fid%3DHerts%26isbn%3D9781784504991&sig=e36a0f6fd37978e3aaed5337434acf69a7625c6b3effb370e37a32d1ed6a341b) and the law
 ### References
 1. NMC ([2018](https://herts.rl.talis.com/link?url=https%3A%2F%2Fwww.nmc.org.uk%2Fstandards%2Fcode%2F&sig=19ce6c6946d908a2a5fd8046c95addd069bb7d4d2b15fd4d1d64602e177e585d)) code.
-2. The [future](https://herts.rl.talis.com/link?url=https%3A%2F%2Fwww.nmc.org.uk%2Fstandards%2Fstandards-for-nurses%2Fstandards-of-proficiency-for-registered-nurses%2F&sig=040bfcaee54127e38079bf4a5db200201fce11524439433e8cfdafea18fcb172) nurse
-3. [Standards](https://www.nmc.org.uk/standards/standards-for-nurses/standards-of-proficiency-for-registered-nurses/) for proficiency
-4. [Evidence based practice](https://hcmarketplace.com/media/supplemental/3737_browse.pdf)
-5. [slides](https://media.tghn.org/medialibrary/2021/07/1._Generating_Evidence_for_Clinical_Nursing_Practice.pdf)
-6. [Nursing resilience](https://onlinelibrary-wiley-com.ezproxy.herts.ac.uk/doi/10.1111/nuf.12015)
-7. [The nine rights of medication administration: an overview](https://www-magonlinelibrary-com.ezproxy.herts.ac.uk/doi/abs/10.12968/bjon.2010.19.5.47064)
-8. Communication and interpersonal skills
-9. [Person](https://www.skillsforhealth.org.uk/info-hub/person-centred-approaches-2017/) centred approaches
-10. [Delivering](https://herts.rl.talis.com/link?url=https%3A%2F%2Fbibliu.com%2Fusers%2Fsaml%2FsamlHertfordshire%3FRelayState%3DeyJjdXN0b21fbGF1bmNoX3VybCI6IiMvdmlldy9ib29rcy85NzgxNTI5Nzg2NjM3L2VwdWIvT0VCUFMvdG9jLmh0bWwifQ%253D%253D&sig=0c8055ff9cd5b8c2b8bf873d16b010697d919107f03e90454f98dabd8ae2a91a) person-centred care in Nursing
-11. [Person](https://www.health.org.uk/publications/person-centred-care-made-simple) centred care made simple 
-12. [Safeguarding](https://go-gale-com.ezproxy.herts.ac.uk/ps/retrieve.do?tabID=T002&resultListType=RESULT_LIST&searchResultsType=SingleTab&hitCount=1&searchType=AdvancedSearchForm&currentPosition=1&docId=GALE%7CA98540874&docType=Article&sort=RELEVANCE&contentSegment=ZONE-MOD1&prodId=AONE&pageNum=1&contentSet=GALE%7CA98540874&searchId=R1&userGroupName=uniherts&inPS=true&aty=ip) the patient and profession: the value of critical care nurse certification
-13. No [health](https://herts.rl.talis.com/link?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fpublications%2Fno-health-without-mental-health-a-cross-government-outcomes-strategy&sig=cdcc75b6374e2f84c33a6c782d848cf349b08cd8b2d603bc02bec30a8a35e953) without mental health: a cross-government outcomes strategy
-14. Principles of biomedical ethics
-15. [Safeguarding](https://herts.rl.talis.com/link?url=http%3A%2F%2Fwww.vlebooks.com%2Fvleweb%2Fproduct%2Fopenreader%3Fid%3DHerts%26isbn%3D9781784504991&sig=e36a0f6fd37978e3aaed5337434acf69a7625c6b3effb370e37a32d1ed6a341b) adults and the law
+2. [Standards](https://www.nmc.org.uk/standards/standards-for-nurses/standards-of-proficiency-for-registered-nurses/) for proficiency
+3. [Evidence based practice](https://hcmarketplace.com/media/supplemental/3737_browse.pdf)
+4. [slides](https://media.tghn.org/medialibrary/2021/07/1._Generating_Evidence_for_Clinical_Nursing_Practice.pdf)
+5. [Nursing resilience](https://onlinelibrary-wiley-com.ezproxy.herts.ac.uk/doi/10.1111/nuf.12015)
+6. [The nine rights of medication administration: an overview](https://www-magonlinelibrary-com.ezproxy.herts.ac.uk/doi/abs/10.12968/bjon.2010.19.5.47064)
+7. Communication and interpersonal skills
+8. [Person](https://www.skillsforhealth.org.uk/info-hub/person-centred-approaches-2017/) [centred](https://www.skillsforhealth.org.uk/wp-content/uploads/2021/01/Person-Centred-Approaches-Framework.pdf) approaches
+9. [Delivering](https://herts.rl.talis.com/link?url=https%3A%2F%2Fbibliu.com%2Fusers%2Fsaml%2FsamlHertfordshire%3FRelayState%3DeyJjdXN0b21fbGF1bmNoX3VybCI6IiMvdmlldy9ib29rcy85NzgxNTI5Nzg2NjM3L2VwdWIvT0VCUFMvdG9jLmh0bWwifQ%253D%253D&sig=0c8055ff9cd5b8c2b8bf873d16b010697d919107f03e90454f98dabd8ae2a91a) person-centred care in Nursing
+10. [Person](https://www.health.org.uk/publications/person-centred-care-made-simple) centred care made simple 
+11. [Safeguarding](https://go-gale-com.ezproxy.herts.ac.uk/ps/retrieve.do?tabID=T002&resultListType=RESULT_LIST&searchResultsType=SingleTab&hitCount=1&searchType=AdvancedSearchForm&currentPosition=1&docId=GALE%7CA98540874&docType=Article&sort=RELEVANCE&contentSegment=ZONE-MOD1&prodId=AONE&pageNum=1&contentSet=GALE%7CA98540874&searchId=R1&userGroupName=uniherts&inPS=true&aty=ip) the patient and profession: the value of critical care nurse certification
+12. No [health](https://herts.rl.talis.com/link?url=https%3A%2F%2Fwww.gov.uk%2Fgovernment%2Fpublications%2Fno-health-without-mental-health-a-cross-government-outcomes-strategy&sig=cdcc75b6374e2f84c33a6c782d848cf349b08cd8b2d603bc02bec30a8a35e953) without mental health: a cross-government outcomes strategy
+13. Principles of biomedical ethics
+14. [Safeguarding](https://herts.rl.talis.com/link?url=http%3A%2F%2Fwww.vlebooks.com%2Fvleweb%2Fproduct%2Fopenreader%3Fid%3DHerts%26isbn%3D9781784504991&sig=e36a0f6fd37978e3aaed5337434acf69a7625c6b3effb370e37a32d1ed6a341b) adults and the law
+
+
+
 

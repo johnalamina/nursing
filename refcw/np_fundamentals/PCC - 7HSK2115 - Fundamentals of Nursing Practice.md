@@ -76,7 +76,7 @@ The module enhances the students' abilities to
 3. Mobility
 4. Emotional Support
 5. Medication
-#### Nursing role
+#### Nursing role/themes/tools
 1. Professionalism  
 2. Ethics  
 3. Basic Life Support  
@@ -358,6 +358,8 @@ Todo
 		1. Professionalism and trust
 		2. preserve safety
 		3. **Practice effectively**
+			1. [NMC](https://www.nmc.org.uk/globalassets/sitedocuments/registration/pii/pii-final-guidance.pdf)[indemnity](https://www.nmc.org.uk/indemnity)
+		4. Prioritise patients
 3. Effective Communication
 4. Person Centred Care
 #### Module Aim(s)
@@ -365,8 +367,24 @@ Todo
 	1. NMC Code
 	2. The future nurse
 2. how evidence-based nursing practise helps maintain patient safety in a variety of settings. 
+	1. Communication and interpersonal skills
+	2. Person centred approaches
+	3. Delivering person-centred care in Nursing*
+	4. Person centred care made simple 
+	5. Safeguarding the patient and profession: the value of critical care nurse certification
 3. Develop a range of basic first responder skills for first-aid situations. 
+	1. No health without mental health: a cross-government outcomes strategy
 4. Understand the ethical professional and legal underpinnings of nursing care.
+	1. Principles of biomedical ethics*
+	2. Safeguarding adults and the law
 ### References
 1. NMC (2018) code.
-2. 
+2. The future nurse
+3. Communication and interpersonal skills
+4. Person centred approaches
+5. Delivering person-centred care in Nursing*
+6. Person centred care made simple 
+7. Safeguarding the patient and profession: the value of critical care nurse certification
+8. No health without mental health: a cross-government outcomes strategy
+9. Principles of biomedical ethics*
+10. Safeguarding adults and the law

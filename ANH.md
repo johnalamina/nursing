@@ -7,6 +7,18 @@ Links
 - [RNPedia](https://www.rnpedia.com/category/nursing-articles/)
 - [code of conduct](https://www.nmc.org.uk/standards/code/)
 - 
+## Graduate Attributes 2022/23
+
+Building on the engagement of employers and professional bodies who contribute to the development of our curriculum, we will help you develop through the learning on this module. We will encourage you to be creative and enterprising, and to build your social and global awareness. We will be compassionate and inclusive, supporting you in your learning and living.
+
+In addition to the subject expertise and proficiency, as a University of Hertfordshire graduate, this module will help you develop the follow Graduate Attributes:
+
+- Professionally focused
+- Globally minded
+- Sustainability driven
+- Digitally capable and confident
+- Inclusive and collaborative
+- Evidence based and ethical
 
 [KEY](https://www.youtube.com/watch?v=nvl1qQfgzuw&list=PLQrdx7rRsKfUIghJha8pCwjinzVjKPSsG) TO [PROGRAMME](https://www.herts.ac.uk/courses/postgraduate-masters/msc-adult-nursing) LEARNING OUTCOMES
 

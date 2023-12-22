@@ -352,6 +352,21 @@ Todo
 	2. Avoid over-long sentences.  These can be confusing and lose focus.
 	3. Make sure sentences make sense and say what you meant them to say.
 
+### Reference Areas
+1. Role of a nurse
+2. NMC themes
+		1. Professionalism and trust
+		2. preserve safety
+		3. **Practice effectively**
+3. Effective Communication
+4. Person Centred Care
+#### Module Aim(s)
+1. Develop an insight into the role of the nurse 
+	1. NMC Code
+	2. The future nurse
+2. how evidence-based nursing practise helps maintain patient safety in a variety of settings. 
+3. Develop a range of basic first responder skills for first-aid situations. 
+4. Understand the ethical professional and legal underpinnings of nursing care.
 ### References
 1. NMC (2018) code.
 2. 

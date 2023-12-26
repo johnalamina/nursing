@@ -6,6 +6,7 @@ Links
 - [Level up RN](https://www.youtube.com/@LevelUpRN/playlists)
 - [RNPedia](https://www.rnpedia.com/category/nursing-articles/)
 - [code of conduct](https://www.nmc.org.uk/standards/code/)
+- [critical thinking a writing in nursing](http://www.escepticismo.es/libros/Critical-Thinking-and-Writing-for-Nursing-Students.pdf)
 - 
 ## Graduate Attributes 2022/23
 

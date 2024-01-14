@@ -1,5 +1,31 @@
 
+## PCC covid
+I found a few academic papers that discuss person-centered care during the pandemic. Here are some of them:
 
+1. [**Care during covid-19 must be humane and person centred**](https://www.bmj.com/content/370/bmj.m3483) [1](https://www.bmj.com/content/370/bmj.m3483): This paper argues that person-centered care is essential during the pandemic and that patient and family involvement must be strengthened to achieve this. The authors suggest that a more flexible approach to visiting policies in hospitals and care homes is required to allow family members to be with high-risk patients, especially at the end of life.
+    
+2. [**Person-Centered Healthcare Practice in a Pandemic Context**](https://www.bmj.com/content/370/bmj.m3483) [2](https://www.frontiersin.org/articles/10.3389/fresc.2021.726210/full): This study explores people’s experiences of seeking healthcare support during the pandemic and aims to use the person-centered framework to evaluate these experiences. The authors suggest that a re-focus on supporting people with long-term conditions in a person-centered manner is needed.
+    
+3. [**Effect of COVID-19 pandemic on the implementation of a person-centered model of care for people with multimorbidity**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265091) [3](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265091): This study describes the perception of healthcare teams regarding the impact of the COVID-19 pandemic on the implementation of a person-centered model of care for people with multimorbidity.
+    
+4. [**The empirical evidence underpinning the concept and practice of person-centredness for serious illness**](https://gh.bmj.com/content/5/12/e003330) [4](https://gh.bmj.com/content/5/12/e003330): This review aimed to identify and appraise the empirical evidence underpinning conceptualizations of ‘person-centeredness’ for serious illness.
+    
+
+I hope this helps!
+## Paper - [The empirical evidence underpinning the concept and practice of person-centred care for serious illness: a systematic review (bmj.com)](https://gh.bmj.com/content/bmjgh/5/12/e003330.full.pdf)
+
+### Question
+- Is it only conceptual?
+- What is the difficulty?
+- Challenges for serious illness?
+- What it involves??
+### Points
+- Significant others, communication, joint decision making
+- Serious illness dimensions
+- Serious illness stress tests PCC
+### PCC Review Questions
+- Quality of PCC data
+- What are the methods
 ## PCC Book 
 ![[bsb.png]]
 ### Contents

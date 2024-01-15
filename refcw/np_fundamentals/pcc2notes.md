@@ -16,9 +16,14 @@ I hope this helps!
 
 ### Question
 - Is it only conceptual?
+	- We must reflect on how a practice-based theory of PCC should sit within the broader socio-economic and cultural environment in which a health system operates.
 - What is the difficulty?
+	- Health systems must be structured to enable sufficient availability and accessibility of health workers, and support staff to be able and willing to flexibly adapt skills, communication, routines or environments for individual patients.
 - Challenges for serious illness?
+	- Involvement of joint decision making
 - What it involves??
+	-  _Understanding patient within his or her unique psychosocial or cultural context_
+- How does Geography affect PCC?
 ### Points
 - Significant others, communication, joint decision making
 - Serious illness dimensions
@@ -26,6 +31,63 @@ I hope this helps!
 ### PCC Review Questions
 - Quality of PCC data
 - What are the methods
+
+The empirical evidence underpinning the concept and practice of person-centred care for serious illness: a systematic review 
+
+1. [http://orcid.org/0000-0003-2667-1665](http://orcid.org/0000-0003-2667-1665)Alessandra Giusti[1](https://gh.bmj.com/content/5/12/e003330#aff-1),[2](https://gh.bmj.com/content/5/12/e003330#aff-2), 
+2. [http://orcid.org/0000-0002-2991-8160](http://orcid.org/0000-0002-2991-8160)Kennedy Nkhoma[1](https://gh.bmj.com/content/5/12/e003330#aff-1), 
+3. Ruwayda Petrus[3](https://gh.bmj.com/content/5/12/e003330#aff-3), 
+4. Inge Petersen[3](https://gh.bmj.com/content/5/12/e003330#aff-3), 
+5. Liz Gwyther[4](https://gh.bmj.com/content/5/12/e003330#aff-4), 
+6. Lindsay Farrant[4](https://gh.bmj.com/content/5/12/e003330#aff-4), 
+7. [http://orcid.org/0000-0003-3076-0783](http://orcid.org/0000-0003-3076-0783)Sridhar Venkatapuram[2](https://gh.bmj.com/content/5/12/e003330#aff-2), 
+8. [http://orcid.org/0000-0001-9653-8689](http://orcid.org/0000-0001-9653-8689)Richard Harding[1](https://gh.bmj.com/content/5/12/e003330#aff-1)
+
+1. Correspondence to Alessandra Giusti; [alessandra.giusti@kcl.ac.uk](mailto:alessandra.giusti@kcl.ac.uk)
+
+## Abstract
+
+**Introduction** Person-centred care has become internationally recognised as a critical attribute of high-quality healthcare. However, the concept has been criticised for being poorly theorised and operationalised. Serious illness is especially aligned with the need for person-centredness, usually necessitating involvement of significant others, management of clinical uncertainty, high-quality communication and joint decision-making to deliver care concordant with patient preferences. This review aimed to identify and appraise the empirical evidence underpinning conceptualisations of ‘person-centredness’ for serious illness.
+
+**Methods** Search strategy conducted in May 2020. Databases: CINAHL, Embase, PubMed, Ovid Global Health, MEDLINE and PsycINFO. Free text search terms related to (1) person-centredness, (2) serious illness and (3) concept/practice. Tabulation, textual description and narrative synthesis were performed, and quality appraisal conducted using QualSyst tools. Santana _et al_’s person-centred care model (2018) was used to structure analysis.
+
+**Results** PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) flow data: n=12,446 studies screened by title/abstract, n=144 full articles assessed for eligibility, n=18 studies retained. All studies (n=18) are from high-income countries, and are largely of high quality (median score 0.82). The findings suggest that person-centred care encompasses the patient and family being respected, given complete information, involved in decision-making and supported in their physical, psychological, social and existential needs. The studies highlight the importance of involving and supporting family/friends, promoting continuation of normality and self-identity, and structuring service organisation to enable care continuity.
+
+**Conclusion** Person-centred healthcare must value the social network of patients, promote quality of life and reform structurally to improve patients’ experience interacting with the healthcare system. Staff must be supported to flexibly adapt skills, communication, routines or environments for individual patients. There remains a need for primary data investigating the meaning and practice of PCC in a greater diversity of diagnostic groups and settings, and a need to ground potential components of PCC within broader universal values and ethical theory.
+### Key questions
+
+#### What is already known?
+
+- Person-centred care has become internationally recognised as a dimension of high-quality healthcare, promoted as a core competency of health workers, a key component of primary care and essential to achieving the Universal Health Coverage goals.
+    
+- Ongoing conceptual debates are attempting to determine what constitutes ‘person-centredness’ and how this concept can be understood and implemented in a variety of settings.
+    
+- Serious illness is especially aligned with the need for PCC; the complex clinical scenarios surrounding serious illness usually necessitate the involvement of significant others and depend on high-quality communication and joint decision-making to deliver care concordant with patient preferences, with recognition and management of clinical uncertainty.
+    
+
+### Key questions
+
+#### What are the new findings?
+
+- Included studies largely support the Santana _et al_ model of PCC and suggest that additional domains should be given visibility: family and friend involvement and support; promoting continuation of normality and self-identity; structuring service organisation to enable continuity of care and patient navigation.
+    
+- The empirical data stresses the importance of patients and families being respected, listened to, understood, given honest, complete and comprehendible information and being engaged in all decisions that affect their daily life, care and treatment. Patients must be supported in their physical, psychological, social and spiritual needs.
+    
+- All retained studies were conducted in high-income, Western countries.
+    
+- Empirical studies present invaluable data on the meaning and practice of PCC, however none develop this evidence into a theorised framework for implementation of PCC for serious illnesses.
+    
+
+#### What do the new findings imply?
+
+- Person-centred healthcare must value the social network of each patient, promote quality of life and personal goals not only health status improvement, and implement structural reforms to improve patients’ experience of interacting with the healthcare system.
+    
+- Health systems must be structured to enable sufficient availability and accessibility of health workers, and support staff to be able and willing to flexibly adapt skills, communication, routines or environments for individual patients.
+    
+- There is a need for primary data investigating the meaning and practice of PCC in a greater diversity of diagnostic groups and settings, particularly non-Western, low- and middle-income settings.
+    
+- There is a need to consider the theoretical underpinnings of PCC and to ground potential components within broader universal values and ethical theory.
+![[pcc00.jpg]]
 ## PCC Book 
 ![[bsb.png]]
 ### Contents

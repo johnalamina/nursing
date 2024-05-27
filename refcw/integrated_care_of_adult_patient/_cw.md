@@ -37,7 +37,10 @@ Criteria
 	1. Outstanding: Highly articulate and fluent writing style with no grammar, punctuation or spelling errors (9/10)
 	2. Good: Ideas are expressed clearly in most places.  Grammar, punctuation and/or spelling errors impair meaning in some places.(6/10)
 	3. Poor: Ideas poorly expressed. Numerous inaccuracies in grammar, punctuation and spelling make it unclear/difficult to understand in places (2/10.
-8. References (5%) - Bonus marks
+8. References (5%) 
+	1. Recommended APA7 reference system is used with no inaccuracies or inconsistencies of presentation noted.
+	2. Recommended referencing system is used with several inaccuracies and/or inconsistences
+	3. Little or not attempt to use recommended referencing system, numerous errors noted
 
 Now create Version E according to the following specification:
 1. Combine section 1 of all the versions A,B,C,D retaining all the in-text references. However, for the intervention let the focus be solely on pain management even though other intervention methods may be mentioned.

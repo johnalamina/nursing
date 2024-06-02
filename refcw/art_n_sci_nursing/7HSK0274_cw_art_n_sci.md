@@ -5,7 +5,7 @@
 - [chapter 1](https://www.gov.uk/government/publications/health-profile-for-england-2018/chapter-1-population-change-and-trends-in-life-expectancy)
 - [gov.uk research](https://www.gov.uk/search/research-and-statistics)
 - [Kings Fund ethnic minorities](https://www.kingsfund.org.uk/insight-and-analysis/long-reads/health-people-ethnic-minority-groups-england)
-- 
+- [inequalities nutshell](https://www.kingsfund.org.uk/insight-and-analysis/data-and-charts/health-inequalities-nutshell)
 ## Health Gap - Mormott Aug 2017
 
 - "My resolution of apparently having it both ways comes from following Amartya Sen.[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5837404/#dyx163-B3) Relative inequality with respect to income translates into absolute inequality with respect to capabilities. It is not so much what you have but what you can do with what you have"

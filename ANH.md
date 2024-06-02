@@ -7,7 +7,7 @@ Links
 - [RNPedia](https://www.rnpedia.com/category/nursing-articles/)
 - [code of conduct](https://www.nmc.org.uk/standards/code/)
 - [critical thinking a writing in nursing](http://www.escepticismo.es/libros/Critical-Thinking-and-Writing-for-Nursing-Students.pdf)
-- 
+- [ICD11 taxonomy](https://icdcdn.who.int/icd11referenceguide/en/html/index.html#taxonomy)
 ## Graduate Attributes 2022/23
 
 Building on the engagement of employers and professional bodies who contribute to the development of our curriculum, we will help you develop through the learning on this module. We will encourage you to be creative and enterprising, and to build your social and global awareness. We will be compassionate and inclusive, supporting you in your learning and living.

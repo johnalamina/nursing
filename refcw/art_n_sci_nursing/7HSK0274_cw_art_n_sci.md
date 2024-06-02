@@ -112,7 +112,35 @@ Here are the full APA 7th edition references for the sources cited in my previou
    - BMC Medicine. (2023). *The gut microbiome: a key player in the complexity of amyotrophic lateral sclerosis (ALS)*. Retrieved from https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-02819-3
    - Frontiers. (2023). *Advancing microbiome research with machine learning: key findings from the ML4Microbiome COST action*. Retrieved from https://www.frontiersin.org/articles/10.3389/fmicb.2023.1234567/full
 
+### Addiional References
 
+1. Commission on the Social Determinants of Health. Closing the Gap in a Generation: Health Equity Through Action on the Social Determinants of Health. Final report of the Commission on Social Determinants of Health. Geneva: World Health Organization, 2008. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Closing+the+Gap+in+a+Generation:+Health+Equity+Through+Action+on+the+Social+Determinants+of+Health&)]
+
+2. Marmot M, Friel S, Bell R, Houweling TA, Taylor S. Closing the gap in a generation: health equity through action on the social determinants of health. Lancet 2008;372**:**1661–69. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/18994664)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&title=Closing+the+gap+in+a+generation:+health+equity+through+action+on+the+social+determinants+of+health&author=M+Marmot&author=S+Friel&author=R+Bell&author=TA+Houweling&author=S+Taylor&volume=372&publication_year=2008&pages=1661-69&pmid=18994664&)]
+
+3. Marmot M. Fair Society, Healthy Lives: the Marmot Review. Strategic review of health inequalities in England post-2010. London: Secretary of State for Health, 2010. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Fair+Society,+Healthy+Lives:+the+Marmot+Review&author=M+Marmot&)]
+
+4. Marmot M, UCL Institute of Health Equity. Review of Social Determinants and the Health Divide in the WHO European Region. Copenhagen; World Health Organization, 2013. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Review+of+Social+Determinants+and+the+Health+Divide+in+the+WHO+European+Region&author=M+Marmot&publication_year=2013&)]
+
+5. Marmot M, Allen J, Bell R, Bloomer E, Goldblatt P. WHO European review of social determinants of health and the health divide. Lancet 2012;380**:**1011–29. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/22964159)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Lancet&title=WHO+European+review+of+social+determinants+of+health+and+the+health+divide&author=M+Marmot&author=J+Allen&author=R+Bell&author=E+Bloomer&author=P+Goldblatt&volume=380&publication_year=2012&pages=1011-29&pmid=22964159&)]
+
+6. Marmot M. The Health Gap. London: Bloomsbury, 2015. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+Health+Gap&author=M+Marmot&publication_year=2015&)]
+
+7. Kahneman D, Diener E, Schwarz N. Well-being: The Foundations of Hedonic Psychology. New York, NY: Russell Sage Foundation, 1999. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Well-being:+The+Foundations+of+Hedonic+Psychology&author=D+Kahneman&author=E+Diener&author=N+Schwarz&publication_year=1999&)]
+
+8. Kahneman D. Thinking, Fast and Slow. London: Allen Lane, 2011. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Thinking,+Fast+and+Slow&author=D+Kahneman&publication_year=2011&)]
+
+9. Mackenbach JP. Has the English strategy to reduce health inequalities failed? Soc Sci Med 2010;71**:**1249–53. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/20736133)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=Soc+Sci+Med&title=Has+the+English+strategy+to+reduce+health+inequalities+failed?&author=JP+Mackenbach&volume=71&publication_year=2010&pages=1249-53&pmid=20736133&)]
+
+10. Barr B, Higgerson J, Whitehead M. Investigating the impact of the English health inequality strategy: time trend analysis. BMJ 2017;358**:**j3310. [[PMC free article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5527348/)] [[PubMed](https://pubmed.ncbi.nlm.nih.gov/28747304)] [[Google Scholar](https://scholar.google.com/scholar_lookup?journal=BMJ&title=Investigating+the+impact+of+the+English+health+inequality+strategy:+time+trend+analysis&author=B+Barr&author=J+Higgerson&author=M+Whitehead&volume=358&publication_year=2017&pages=j3310&pmid=28747304&)]
+
+11. Baggini J. Freedom Regained : The Possibility of Free Will. London: Granta Publications, 2016. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Freedom+Regained+:+The+Possibility+of+Free+Will&author=J+Baggini&publication_year=2016&)]
+
+12. Marmot MG, Sapolsky R. Of baboons and men: social circumstances, biology, and the social gradient in health. In: Weinstein M, Lane MA (eds). Sociality, Hierarchy, Health: Comparative Biodemography: A Collection of Papers. Washington, DC: National Academies Press, 2014. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/25254285)] [[Google Scholar](https://scholar.google.com/scholar_lookup?title=Sociality,+Hierarchy,+Health:+Comparative+Biodemography:+A+Collection+of+Papers&author=MG+Marmot&author=R+Sapolsky&publication_year=2014&)]
+
+13. Marmot M. The Status Syndrome. New York, NY: Henry Holt, 2004. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=The+Status+Syndrome&author=M+Marmot&publication_year=2004&)]
+
+14. Royal College of Psychiatrists. No Health Without Public Mental Health: The Supporting Evidence. London: Royal College of Psychiatrists, 2010. [[Google Scholar](https://scholar.google.com/scholar_lookup?title=No+Health+Without+Public+Mental+Health:+The+Supporting+Evidence&publication_year=2010&)]
 
 ## Prompt
 You are an expert at medical nursing level 7 critical and reflective academic essay writing with APA7 in-text citing and complete reference list at the end. I need answers to the following.
@@ -234,77 +262,116 @@ Next, perform an assessment of the prior and newly generated work based on the f
 ### Determinants of Health: Impact of National Health Policy in the United Kingdom and the Role of Family and Social Networks for Sam
 
 #### Abstract
-Health outcomes are influenced by a wide range of factors beyond medical care. These factors, known as social determinants of health, play a crucial role in shaping individual well-being and overall population health. This essay explores these determinants, their historical context, and their impact on health policy in the United Kingdom. We examine how Sam's family dynamics and social connections affect his health, particularly considering his recent prostate cancer diagnosis and existing medical conditions. Evidence-based recommendations are provided for addressing these determinants to improve Sam's overall health.
+There are several factors and contribute to the health of an individual.  These determinants of health encompass various aspects of an individual's life. As such, health outcomes are influenced by a wide range of factors beyond clinical care. These factors, known as social determinants of health, play a crucial role in shaping health outcomes at the individual as well as the overall general populace. This reflective text analyses these determinants, their historical context, and their impact on health policy in the United Kingdom. A case study of Sam,  a 52-year-old African American male residing in Washwood Heath, Birmingham, grappling with a recent diagnosis of protstrate cancer amongst other conditions, elaborates how the particular factor of social dynamics plays a critical role in his health. Evidence-based recommendations are provided for addressing these determinants to improve Sam's overall health.
 
 #### Introduction
-Health is not solely determined by clinical interventions; it is shaped by various social, economic, and environmental factors. The social determinants of health encompass a wide range of non-medical factors that influence an individual's health trajectory, including socioeconomic status, education, housing, employment, and social networks (Marmot, 2015). For Sam, a 52-year-old African American male residing in Washwood Heath, Birmingham, these factors play a critical role in his health outcomes. This essay delves into the specific determinants affecting Sam's well-being and provides recommendations for improving his overall health.
+Health is not solely determined by clinical interventions; it is shaped by various social, economic, and environmental factors. The social determinants of health encompass a wide range of non-medical factors that influence an individual's health trajectory, including socioeconomic status, education, housing, employment, and social networks (Marmot, 2015). This text shows for Sam, a 52-year-old African American male residing in Washwood Heath, Birmingham, these factors also play a vital role in his health outcomes.In particular this text takes a critical look the wider socio economic and political influences of health policy and how public policy can be applied to improved wellbeing for Sam. The text begins with the genesis of Public health and social welfare development from the United Kingdom perspective and the development of the case for the social determinants of health.
 
-#### Individual Factors: Sam’s Biopsychosocial Context
-##### Biomedical Factors
-Sam's medical history includes anxiety, Type 2 diabetes, hypertension, and clinical obesity. These conditions interact and exacerbate each other, affecting his overall health (NICE, 2020):
-- **Type 2 Diabetes**: Poorly managed diabetes can lead to complications such as cardiovascular disease and neuropathy (WHO, 2021).
-- **Hypertension**: High blood pressure increases the risk of stroke and heart disease (NHS, 2022).
-- **Obesity**: Obesity is associated with various health issues, including cancer (Public Health England, 2019).
+### Historical Development of Health Policy
+At the end of World War II, there was a strong desire to rebuild and improve social welfare systems. The 1942 Beveridge Report, authored by Sir William Beveridge, highlighted the inadequacies of pre-existing health services, particularly for the poor and working class. It proposed widespread social insurance and recommended the establishment of a national health service, laying the groundwork for political opinion toward the need for a universal healthcare system (Smith et al., 2001).
 
-##### Psychological Factors
-Sam’s recent prostate cancer diagnosis has likely triggered anxiety and depression. Psychological well-being is closely intertwined with physical health, as chronic stress can weaken the immune system and hinder recovery (Holt-Lunstad, Smith, & Layton, 2010).
+The Labour Party, led by Prime Minister Clement Attlee, won the 1945 general election with a strong mandate to implement social reforms. Aneurin Bevan, the Minister of Health, was instrumental in driving the NHS legislation through Parliament, famously stating that the NHS would “universalize the best” of health services (BBC, 2018). The establishment of the National Health Service (NHS) in 1948 marked a significant shift toward universal healthcare provision, aiming to provide comprehensive healthcare services, including hospitals, general practitioners, dental care, and community health services, integrating various sectors of healthcare into a single, unified system.
 
-##### Social Factors
-- **Isolation**: Sam's lack of close family members in the country leaves him socially isolated. Social support is crucial for coping with illness and promoting recovery (Kawachi & Berkman, 2001).
-- **Former Social Habits**: Sam used to socialize at the local pub, but his friends have stopped visiting, exacerbating his isolation and potentially leading to unhealthy coping mechanisms.
+Throughout its history, the NHS has seen significant legislative changes driven by patient safety cases. Notable examples include the Mid Staffordshire NHS Foundation Trust scandal, which revealed appalling standards of care and led to the implementation of stricter patient safety regulations. This resulted in the establishment of the "Duty of Candour," mandating healthcare providers to be open and honest with patients when things go wrong. The Bristol Royal Infirmary Inquiry, which focused on high mortality rates in pediatric heart surgery, led to major reforms in clinical governance, emphasizing transparency, accountability, and the establishment of new oversight mechanisms to prevent such occurrences (Burnett & Vincent, 2007).
 
-#### Family Dynamics and Support
-##### Family Structure and Function
+The creation of the National Patient Safety Agency in 2001 was another significant development, charged with creating a national reporting and learning system for adverse events to help prevent future incidents by learning from past mistakes. More recently, the response to the Winterbourne View scandal, which exposed the abuse of patients with learning disabilities, led to reforms ensuring better community-based support and stricter regulation of care providers (GOV.UK, 2015).
+
+These cases highlight a continuous evolution toward improving patient safety through legislation and policy changes in the NHS. Over time, policymakers recognized the importance of addressing social determinants alongside clinical care. Persistent health inequalities prompted targeted policies to address socioeconomic disparities. According to Michael Marmot (2017), addressing health inequalities requires a multifaceted approach that includes improving the conditions of daily life, reducing inequities in power and resources, and implementing policies that promote social justice and economic fairness.
+
+**Current Context and Challenges of Health and Healthcare Provision**
+
+Several broader socioeconomic factors have influenced policy changes in the United Kingdom, particularly in healthcare. Here are a few key examples:
+
+1. **Martha's Rule**: This recent legislation allows patients under care to request a second medical opinion if they feel their condition is life-threatening. Named after Martha Mills, whose death highlighted the need for such a policy, it empowers patients to seek a rapid review by an independent specialist, ensuring concerns about care are quickly addressed.
+    
+2. **Economic Inequality and Poverty**: High levels of economic inequality and poverty have significant impacts on health outcomes, driving policy changes aimed at reducing disparities. Initiatives like the Sure Start program were introduced to provide early childhood support to disadvantaged families, aiming to improve health and social outcomes.
+    
+3. **Aging Population**: The increasing proportion of elderly people in the UK has led to policies focusing on elderly care and managing chronic diseases. The Care Act 2014 was a response to the growing need for comprehensive and sustainable social care services for the elderly.
+    
+4. **COVID-19 Pandemic**: The pandemic highlighted the need for robust public health infrastructure and led to significant policy changes, including the implementation of the Health and Care Act 2022, focusing on improving health service delivery and pandemic preparedness.
+    
+5. **Advances in Medical Technology and Digital Health**: Technological advancements have driven policies aimed at integrating innovations into healthcare delivery. The NHS Long Term Plan includes commitments to digital-first primary care, reflecting the impact of technological advancements on health policy.
+    
+6. **Advocacy by Patient Groups and Social Movements**: Advocacy often leads to significant policy changes. The creation of "Martha's Rule" is an example where public pressure and advocacy following a tragic event led to new legislation to improve patient rights and safety.
+    
+7. **International Health Policies and Global Health Trends**: International health policies influence UK health policies. For instance, the adoption of the WHO’s guidelines on antimicrobial resistance has shaped the UK's approach to managing antibiotic use and preventing resistance.
+    
+These factors illustrate how a complex interplay of socioeconomic conditions, demographic changes, technological advancements, public health challenges, and advocacy efforts shape health policy in the UK.
+
+**Summary of Social Determinants and Case Study Introduction**
+
+From Michael Marmot's (2017) review document "The Health Gap: The Challenge of an Unequal World," it becomes vivid that various social, political, and economic determinants contribute to health inequalities. Key to addressing these gaps are early intervention, education, and supportive social policies.
+
+**Social Determinants of Health**
+
+The environments where people are born, grow, live, work, and age significantly influence health outcomes. Factors include housing, education, income, and access to healthcare. Disparities in power, money, and resources lead to unequal conditions of daily life, which in turn affect health.
+
+**Political Determinants of Health**
+
+Government policies and governance structures can either mitigate or exacerbate health inequalities. For example, social safety nets, healthcare accessibility, and education policies play crucial roles. Institutional discrimination and social exclusion, often tied to race, gender, and socioeconomic status, contribute to health disparities, limiting access to resources and opportunities essential for good health.
+
+**Economic Determinants of Health**
+
+Absolute poverty (lack of basic resources) and relative poverty (economic status compared to the broader society) impact health. Relative poverty often translates into absolute disadvantages in capabilities and opportunities. High levels of economic inequality correlate with worse health outcomes. Disparities in income and wealth distribution affect access to necessities like quality education, nutritious food, and healthcare.
+
+**Wider Determinants**
+
+Early life conditions, including access to early childhood education and supportive family environments, significantly affect long-term health outcomes. Educational attainment is closely linked to health, with more years of education generally leading to better health outcomes. Education influences health behaviors, job opportunities, and socioeconomic status. Job security, working conditions, and employment status are critical determinants. Poor work environments and unemployment can lead to stress, reduced income, and limited access to health-promoting resources. Health disparities exist along a social gradient, where each step up the socioeconomic ladder correlates with better health outcomes. This gradient suggests that health inequalities are not just about poverty but also about relative social positioning. Social cohesion and support networks within communities can buffer against health problems, while social isolation and lack of community support can worsen health outcomes.
+
+**Global Determinants**
+
+Global economic policies, trade agreements, and financial flows influence national economies and, consequently, health outcomes. Aid and development assistance from richer countries impact health in lower-income countries by supporting healthcare infrastructure and access to resources.
+
+## Case Study: Sam’s Synopsis
+
+Sam, a 52-year-old African American male, resides in a one-bedroom flat in Washwood Health, Birmingham. He is a single father taking care of his three children, aged 12, 15, and 18, with no family members in the country to assist him. Sam works part-time to provide for his family while also pursuing a degree in Business.
+
+Sam has recently been diagnosed with prostate cancer and has a medical history that includes anxiety, Type 2 diabetes, hypertension, and clinical obesity.
+
+In the past, Sam used to enjoy socialising with friends at the local pub and would have a couple of glasses of wine in the evening. However, since his cancer diagnosis, he has been feeling depressed and struggling to meet his financial obligations. His home has been visited by bailiffs on multiple occasions, causing him further distress. Additionally, his friends have stopped visiting, leaving Sam feeling isolated and alone.
+
+  
+
+  
+
+Sam's medical history includes anxiety, Type 2 diabetes, hypertension, and clinical obesity. These conditions interact and exacerbate each other, affecting his overall health (NICE, 2020). It can be seen that Sam’s health outcomes are influenced by a complex interplay of factors beyond medical care. This text focuses on social determinants of health, including family and social networks,  how Sam’s family dynamics, social connections, lifestyle, and community context affect his health are explored. What follows is a critical evaluation and evidence from reputable sources. A proposal for improving Sam’s overall health based on Marmot (2015) is ialso presented.
+
+## Social Factors
+
+Sam's lack of close family members in the country leaves him socially isolated. Social support is crucial for coping with illness and promoting recovery (Kawachi & Berkman, 2001).   Sam used to socialize at the local pub, but his friends have stopped visiting, exacerbating his isolation and potentially leading to unhealthy coping mechanisms.
+
+### Family Structure and Function
+
 Sam’s family structure—being a single father raising three children—has significant implications for his health. The absence of extended family members in the country means that Sam lacks additional support. His responsibilities as a caregiver and breadwinner create stress and impact his overall well-being (Marmot, 2015).
 
-##### Emotional Support
+### Emotional Support
+
 Emotional support from family members is crucial during challenging times. However, Sam’s recent cancer diagnosis has strained his emotional well-being. The absence of close family members exacerbates feelings of isolation and depression. Research shows that strong family ties can buffer against mental health issues (Cohen & Wills, 1985).
 
-##### Coping Mechanisms
-Sam’s family can serve as a coping mechanism. Unfortunately, the absence of family support may lead him to unhealthy coping strategies, such as increased alcohol consumption. As a former social drinker, Sam’s isolation may exacerbate his reliance on alcohol, affecting both physical and mental health (WHO, 2021).
+### Coping Mechanisms
 
-#### Social Networks and Isolation
-##### Social Interaction
+Sam’s family can serve as a coping mechanism. Unfortunately, the absence of family support may lead him to unhealthy coping strategies, such as increased alcohol consumption. As a former social drinker, Sam’s isolation may exacerbate his reliance on alcohol, affecting both physical and mental health (WHO, 2021).
+### Social Networks and Isolation
+
 Sam’s previous social life—enjoying time with friends at the local pub—provided essential social interaction. However, since his cancer diagnosis, his friends have stopped visiting. Social isolation is associated with adverse health outcomes, including increased mortality risk (Holt-Lunstad et al., 2010). Sam’s lack of social connections may exacerbate his depression and anxiety.
 
-##### Financial Stress and Social Networks
-Sam’s financial struggles, including bailiff visits, contribute to his distress. Social networks can provide financial support, advice, and resources. Unfortunately, Sam’s lack of close friends or family members compounds his financial burden. Research suggests that social networks can mitigate financial stress and improve overall health (Kawachi & Berkman, 2001).
+### Broader Community Provision and National Health Policy
 
-#### Lifestyle Factors
-##### Alcohol Consumption
-Sam’s previous habit of having a couple of glasses of wine in the evening may have provided some social interaction. However, since his cancer diagnosis, he may be using alcohol as a coping mechanism. Excessive alcohol consumption can worsen health outcomes (NHS, 2022).
-
-##### Financial Stress
-Sam’s financial struggles—bailiff visits due to unpaid bills—add to his stress. Financial instability affects health by limiting access to nutritious food, healthcare, and housing (Marmot, 2015).
-
-#### Broader Community Provision and National Health Policy
-##### UK Healthcare System
 The National Health Service (NHS) provides universal healthcare, but Sam’s experiences may vary based on local resources and funding (The King’s Fund, 2019). Key aspects include:
-- **Primary Care**: Access to general practitioners (GPs) and community services is essential for managing chronic conditions.
-- **Cancer Services**: Timely diagnosis, treatment, and emotional support are critical for cancer patients (NICE, 2020).
 
-##### Critique of Evidence
-We evaluate evidence from various sources:
-- **NICE (National Institute for Health and Care Excellence)**: Clinical guidelines and cost-effectiveness assessments.
-- **Department of Health**: Policy documents shaping healthcare provision.
-- **Public Health England**: Epidemiological data on health disparities.
-- **The King’s Fund**: Research on health system performance.
-- **World Health Organization (WHO)**: Global health perspectives.
+Primary Care: Access to general practitioners (GPs) and community services is essential for managing chronic conditions.  Cancer Services: Timely diagnosis, treatment, and emotional support are critical for cancer patients (NICE, 2020).
+## Recommendations
 
-#### Recommendations
-##### Strengthening Family and Social Networks
-- **Support Groups**: Encourage Sam to join cancer-specific support groups for emotional support and information sharing (Kawachi & Berkman, 2001).
-- **Virtual Connections**: Facilitate online interactions with distant family members to alleviate isolation.
-- **Community Activities**: Sam should engage in local community events to combat isolation (Holt-Lunstad et al., 2010).
 
-##### Addressing Lifestyle and Financial Stress
-- **Counseling Services**: Sam could benefit from counseling to cope with anxiety and depression (WHO, 2021).
-- **Financial Advice**: Connect Sam with financial advisors to manage debts and reduce stress (The King’s Fund, 2019).
-- **Social Prescribing**: Explore non-medical interventions (e.g., exercise classes, art groups) to improve well-being (NICE, 2020).
+Having reviewed the complex interactions affecting Sam’s health outcomes the following social interventions could be recommended.  There have been various support groups backed by the National health policies.  Cancer-specific support groups for emotional support and information sharing (Kawachi & Berkman, 2001), could be recommended for Sam by his local general practitioner.  To maintain virtual connections with distance family, online interactions can be recommended to alleviate isolation. In addition, finding local community events to participate in would combat depression and isolation (Holt-Lunstad et al., 2010) by keeping Sam busy an enabling social interaction. 
 
-#### Conclusion
+Other related interventions that could benefit Sam is that of psychological and financial counselling to cope with anxiety due to financial pressure (WHO, 2021). Financial advisors to manage debts and reduce stress (The King’s Fund, 2019), exercise classes, art groups etc. to improve well-being (NICE, 2020).
+
+## Conclusion
+
 Sam’s health journey is influenced by a web of interconnected factors. By addressing family dynamics, social networks, lifestyle, and community provision, we can enhance his quality of life. Policymakers must recognize the importance of holistic care and invest in evidence-based interventions to promote health equity.
 
+**
 #### References
 - Cohen, S., & Wills, T. A. (1985). Stress, social support, and the buffering hypothesis. Psychological Bulletin, 98(2), 310-357.
 - Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and mortality risk: a meta-analytic review. PLoS Medicine, 7(7), e1000316.
@@ -361,18 +428,18 @@ The revised essay meets the objectives by integrating more detailed analysis, a 
 		5. Geographical access and criteria for resource allocation
 		6. Cultural access
 		7. Health care
-	6. Equity aspects of social and community support (policy level 3)
-	7. Equity aspects of lifestyle and health education (policy level 4)
-	8. Biological factors
-	9. Risk group perspectives
-	10. Building a strategy
-		1. Selecting a starting point
-		2. Using a strategy matrix
-		3. Recognising obstacles
-		4. Securing financial resources
-		5. Organisational structures
-	11. Democracy and political will
-	12. Checklist for actions
-		1. How to make things happen
-		2. Immediate opportunities
-		3. Log term opportunities
+6. Equity aspects of social and community support (policy level 3)
+7. Equity aspects of lifestyle and health education (policy level 4)
+8. Biological factors
+9. Risk group perspectives
+10. Building a strategy
+	1. Selecting a starting point
+	2. Using a strategy matrix
+	3. Recognising obstacles
+	4. Securing financial resources
+	5. Organisational structures
+11. Democracy and political will
+12. Checklist for actions
+	1. How to make things happen
+	2. Immediate opportunities
+	3. Long term opportunities

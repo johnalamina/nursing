@@ -1,8 +1,8 @@
 # nursing
 ## strictly nursing education
 
-- ### [General](./ANH.md)
-- ### [Kozier notes](./practice_book.md)
+- ### [General](ANH.md)
+- ### [Kozier notes](practice_book.md)
 
 Links
 - [Manchester phrase bank search](https://www.google.com/search?q=manchester+academic+phrasebank&oq=manchester+academic&gs_lcrp=EgZjaHJvbWUqCggAEAAYsQMYgAQyCggAEAAYsQMYgAQyCQgBEEUYORiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDINCAYQLhivARjHARiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDU0MjRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
